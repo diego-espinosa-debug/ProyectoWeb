@@ -16,15 +16,20 @@ Requerimientos funcionales:
     antes de confirmar la compra, una vez el cliente este listo procede a derivarlo a la 
     sección de pago.
 
-4) Gestion de pedidos (administrador)
+4) Sección de Pago (cliente)
+    El cliente tiene una vista a la lista de productos agregados al carrito, se ve un cuadro
+    con la suma del precio de cada objeto y se muestra un botón para proceder a la pantalla
+    de pago.
+
+5) Gestion de pedidos (administrador)
     El administrador puede vizualizar, actualizar el estado (pendiente, enviado, recibido) 
     o cancelar pedidos realizados por los clientes.
 
-5) Sistema de reseñas y valoraciones (cliente)
+6) Sistema de reseñas y valoraciones (cliente)
     Los clientes pueden dejar valoraciones y comentarios sobre los productos que han comprado. 
     Además pueden valorar diferentes categorías relacionadas a la entrega. 
 
-6) Historial de compras (cliente)
+7) Historial de compras (cliente)
     El cliente puede acceder a un historial con los pedidos anteriores, sus fechas y estados.
 
 --------------------------------------------------------------------------------------------------
