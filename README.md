@@ -49,12 +49,12 @@ Requerimientos no funcionales:
 3) Escalabilidad
     El código debe estar documentado y estructurado para facilitar futuras modificaciones y correcciones.
 
-5) Accesibilidad
+4) Accesibilidad
     La aplicación debe cumplir con los principios de accesibilidad, como uso de contraste, textos 
     legibles y navegación simple.
 
-6) Soporte multilenguaje
+5) Soporte multilenguaje
     La app debe estar preparada para soportar más de un idioma (inicialmente español, con posibilidad de inglés).
 
-7) Seguirdad datos personales 
+6) Seguirdad datos personales 
     Los datos personales del cliente (nombre, dirección, historial de compras) deben almacenarse de forma segura.
