@@ -32,6 +32,10 @@ Requerimientos funcionales:
 7) Historial de compras (cliente)
     El cliente puede acceder a un historial con los pedidos anteriores, sus fechas y estados.
 
+8) Detalle del producto (Cliente)
+    El cliente puede ver mas de cerca el prdoucto además de productos relacionados al que se
+    esta viendo.
+
 --------------------------------------------------------------------------------------------------
 
 Requerimientos no funcionales:
@@ -42,14 +46,15 @@ Requerimientos no funcionales:
 2) Carga rapida
     Las vistas deben cargarse en menos de 2 segundos para mejorar la experiencia del usuario.
 
-3) Escalabilidad 
+3) Escalabilidad
+    El código debe estar documentado y estructurado para facilitar futuras modificaciones y correcciones.
 
-4) Accesibilidad
+5) Accesibilidad
     La aplicación debe cumplir con los principios de accesibilidad, como uso de contraste, textos 
     legibles y navegación simple.
 
-5) Soporte multilenguaje
+6) Soporte multilenguaje
     La app debe estar preparada para soportar más de un idioma (inicialmente español, con posibilidad de inglés).
 
-6) Seguirdad datos personales 
+7) Seguirdad datos personales 
     Los datos personales del cliente (nombre, dirección, historial de compras) deben almacenarse de forma segura.
