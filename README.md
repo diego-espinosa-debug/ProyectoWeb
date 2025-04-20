@@ -58,3 +58,7 @@ Requerimientos no funcionales:
 
 6) Seguirdad datos personales 
     Los datos personales del cliente (nombre, dirección, historial de compras) deben almacenarse de forma segura.
+   
+7) Disponibilidad
+    La aplicación debe estar disponible y operativa al menos el 99% del tiempo, garantizando que los usuarios
+    puedan acceder a sus funcionalidades en cualquier momento del día.
